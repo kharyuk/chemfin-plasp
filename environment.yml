@@ -1,0 +1,16 @@
+name: cfps
+channels:
+  - r
+  - pytorch
+dependencies:
+  - python=2.7
+  - numpy=1.14.*
+  - sklearn=0.19.*
+  - torch=0.3.*
+  - pandas>=0.22.*
+  - r-essentials
+  - rpy2>=2.8.6
+  - pomegranate=0.9.*
+  - networkx>=2.1
+  - matplotlib>=2.0
+  
