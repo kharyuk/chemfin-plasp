@@ -5,12 +5,15 @@ channels:
 dependencies:
   - python=2.7
   - numpy=1.14.*
+  - matplotlib>=2.0
   - scikit-learn=0.19.*
   - pytorch=0.3.*
   - pandas>=0.22.*
   - r-essentials
   - rpy2>=2.8.6
-  - pomegranate=0.9.*
+  - pip:
+    - dcor
+    - pomegranate
   - networkx>=2.1
-  - matplotlib>=2.0
-  
+
+
