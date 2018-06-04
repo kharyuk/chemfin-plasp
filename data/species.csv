@@ -1,10 +1,10 @@
 1,Althaea officinalis
 2,Aronia melanocarpa
 3,Bergenia crassifolia
-4,Betula pendula
-5,Betula pendula
+4,Betula pendula (buds)
+5,Betula pendula (leaves)
 6,Helichrysum arenarium
-7,Sambucus nigra
+7,Sambucus nigra (flowers)
 8,Valeriana officinalis
 9,Ginkgo biloba
 10,Melilotus officinalis
@@ -19,12 +19,12 @@
 20,Frangula alnus
 23,Convallaria transcaucasica
 24,Potentilla erecta
-25,Tilia cordata/platyphyllos
+25,Tilia cordata
 26,Linum usitatissimum
 27,Arctium lappa
 28,Tussilago farfara
 29,Juniperus communis
-30,Mentha piperita
+30,Mentha x piperita
 31,Calendula officinalis
 32,Tanacetum vulgare
 33,Plantago major
@@ -33,7 +33,7 @@
 36,Silybum marianum
 37,Rhodiola rosea
 38,Matricaria chamomilla
-39,Cassia acutifolia
+39,Senna alexandrina
 40,Polemonium caeruleum
 41,Glycyrrhiza glabra
 42,Pinus sylvestris
@@ -49,16 +49,16 @@
 52,Salvia officinalis
 53,Eleutherococcus senticosus
 54,Aerva lanata
-55,Echinacea pupurea
-56,Eleutherococcus sessiliflorum
-57,Aralia mandshurica
+55,Echinacea purpurea
+56,Eleutherococcus sessiliflorus
+57,Aralia elata
 58,Oplopanax elatus
 59,Inula helenium
 60,Helianthus tuberosus
-61,Archangelica officinalis
+61,Angelica archangelica
 62,Acorus calamus
 63,Rosa majalis
-64,Sambucus nigra
+64,Sambucus nigra (roots)
 65,Levisticum officinale
 66,Aegopodium podagraria
 67,Bupleurum aureum

@@ -1,0 +1,14 @@
+ex1.1 - ex1.6: platfrom = LCMS-IT-TOF
+ex2.1: platfrom = LCMS-IT-TOF
+ex2.2 - 9 samples in 3 extraction methods (27 samples), platfrom = LCMS-IT-TOF 
+ex2.3 - 9 samples in 3 extraction methods (27 samples), platfrom = Agilent QqQ 
+
+
+ex2.2,ex2.3,ex2.4 are used in article4 to test how algorithm works on samples
+which were extracted in different way and/or made on different LC-MS platform.
+
+
+Class tags
+
+1 - 80 - tags of 76 classes (there should be no class tags 19,21,22,74)
+-1 - tag of blanks of QCs
