@@ -2,6 +2,8 @@ import numpy as np
 import copy
 import time
 
+import pandas as pd
+
 from cca import cca, corr
 
 def vec(x):
@@ -443,10 +445,10 @@ class TuckerClassifierLCMS():
                     resultTable[k, i] = corr(a, b)[0, 1]
                 else:
                     resultTable[k, i] = metric(Z[k], self.MZspaces[currentClass])
+        ind = np.argmax(resultTable, axis=1)
         if return_all:
             data = pd.DataFrame(resultTable, columns=self.classes)
-            return data
-        ind = np.argmax(resultTable, axis=1)
+            return self.classes[ind], data
         return self.classes[ind]
 
 

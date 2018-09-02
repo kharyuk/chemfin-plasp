@@ -1,76 +1,76 @@
-1,Althaea officinalis
-2,Aronia melanocarpa
-3,Bergenia crassifolia
-4,Betula pendula (buds)
-5,Betula pendula (leaves)
-6,Helichrysum arenarium
-7,Sambucus nigra (flowers)
-8,Valeriana officinalis
-9,Ginkgo biloba
-10,Melilotus officinalis
-11,Origanum vulgare
-12,Panax ginseng
-13,Rhamnus cathartica
-14,Fragaria vesca
-15,Hypericum perforatum
-16,Viburnum opulus
-17,Coriandrum sativum
-18,Urtica dioica
-20,Frangula alnus
-23,Convallaria transcaucasica
-24,Potentilla erecta
-25,Tilia cordata
-26,Linum usitatissimum
-27,Arctium lappa
-28,Tussilago farfara
-29,Juniperus communis
-30,Mentha x piperita
-31,Calendula officinalis
-32,Tanacetum vulgare
-33,Plantago major
-34,Artemisia absinthium
-35,Leonurus quinquelobatus
-36,Silybum marianum
-37,Rhodiola rosea
-38,Matricaria chamomilla
-39,Senna alexandrina
-40,Polemonium caeruleum
-41,Glycyrrhiza glabra
-42,Pinus sylvestris
-43,Populus balsamifera
-44,Anethum graveolens
-45,Viola tricolor
-46,Equisetum arvense
-47,Humulus lupulus
-48,Thymus serpyllum
-49,Bidens tripartita
-50,Prunus padus
-51,Vaccinium myrtillus
-52,Salvia officinalis
-53,Eleutherococcus senticosus
-54,Aerva lanata
-55,Echinacea purpurea
-56,Eleutherococcus sessiliflorus
-57,Aralia elata
-58,Oplopanax elatus
-59,Inula helenium
-60,Helianthus tuberosus
-61,Angelica archangelica
-62,Acorus calamus
-63,Rosa majalis
-64,Sambucus nigra (roots)
-65,Levisticum officinale
-66,Aegopodium podagraria
-67,Bupleurum aureum
-68,Pimpinella saxifraga
-69,Heracleum sibiricum
-70,Daucus carota
-71,Petroselinum crispum
-72,Foeniculum vulgare
-73,Pimpinella anisum
-75,Asarum europaeum
-76,Cichorium intybus
-77,Dioscorea caucasica
-78,Taraxacum officinale
-79,Hedysarum neglectum
-80,Astragalus membranaceus
+1,Althaea officinalis,roots
+2,Aronia melanocarpa,fructus
+3,Bergenia crassifolia,roots
+4,Betula pendula (leaves),leaves
+5,Betula pendula (buds),buds
+6,Helichrysum arenarium,flowers
+7,Sambucus nigra (flowers),flowers
+8,Valeriana officinalis,roots and rhizomes
+9,Ginkgo biloba,leaves
+10,Melilotus officinalis,leaves
+11,Origanum vulgare,leaves
+12,Panax ginseng,roots
+13,Rhamnus cathartica,fructus
+14,Fragaria vesca,leaves
+15,Hypericum perforatum,leaves
+16,Viburnum opulus,bark
+17,Coriandrum sativum,fructus
+18,Urtica dioica,leaves
+20,Frangula alnus,leaves
+23,Convallaria transcaucasica,flowers
+24,Potentilla erecta,roots
+25,Tilia cordata,flowers
+26,Linum usitatissimum,seeds
+27,Arctium lappa,roots
+28,Tussilago farfara,leaves
+29,Juniperus communis,fructus
+30,Mentha x piperita,leaves
+31,Calendula officinalis,flowers
+32,Tanacetum vulgare,flowers
+33,Plantago major,leaves
+34,Artemisia absinthium,leaves
+35,Leonurus quinquelobatus,leaves
+36,Silybum marianum,fructus
+37,Rhodiola rosea,roots and rhizomes
+38,Matricaria chamomilla,flowers
+39,Senna alexandrina,leaves
+40,Polemonium caeruleum,roots and rhizomes
+41,Glycyrrhiza glabra,roots
+42,Pinus sylvestris,buds
+43,Populus balsamifera,buds
+44,Anethum graveolens,fructus
+45,Viola tricolor,leaves
+46,Equisetum arvense,leaves
+47,Humulus lupulus,seeds
+48,Thymus serpyllum,leaves
+49,Bidens tripartita,leaves
+50,Prunus padus,fructus
+51,Vaccinium myrtillus,fructus
+52,Salvia officinalis,leaves
+53,Eleutherococcus senticosus,roots and rhizomes
+54,Aerva lanata,leaves
+55,Echinacea purpurea,leaves
+56,Eleutherococcus sessiliflorus,roots
+57,Aralia elata,roots
+58,Oplopanax elatus,roots
+59,Inula helenium,roots
+60,Helianthus tuberosus,roots
+61,Angelica archangelica,roots
+62,Acorus calamus,roots
+63,Rosa majalis,roots
+64,Sambucus nigra (roots),roots
+65,Levisticum officinale,roots
+66,Aegopodium podagraria,leaves
+67,Bupleurum aureum,leaves
+68,Pimpinella saxifraga,leaves
+69,Heracleum sibiricum,leaves
+70,Daucus carota,seeds
+71,Petroselinum crispum,seeds
+72,Foeniculum vulgare,seeds
+73,Pimpinella anisum,seeds
+75,Asarum europaeum,leaves
+76,Cichorium intybus,roots
+77,Dioscorea caucasica,roots
+78,Taraxacum officinale,roots
+79,Hedysarum neglectum,roots
+80,Astragalus membranaceus,roots
