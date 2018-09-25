@@ -18,5 +18,6 @@ dependencies:
     - dcor
     - pomegranate
   - networkx>=2.1
+  - scipy
 
 

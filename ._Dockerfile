@@ -5,14 +5,18 @@ ENTRYPOINT [ "/bin/bash", "-c" ]
 
 RUN groupadd -r researcher && useradd -r -g researcher researcher
 RUN apt install make
+RUN apt install git
 
 COPY environment.yml /tmp/environment.yml
 WORKDIR /tmp
 RUN conda env update --file environment.yml \
     && rm -rf /opt/conda/pkgs/*
     
+
+#COPY ./ /chemfin-plasp
+WORKDIR /home/researcher
+RUN chown -R researcher:researcher /home/researcher
 WORKDIR /chemfin-plasp
-COPY ./ /chemfin-plasp
 RUN chown -R researcher:researcher /chemfin-plasp
 
 USER researcher
